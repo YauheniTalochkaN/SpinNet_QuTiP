@@ -1,0 +1,12 @@
+/qenv
+ExpectedSigmaZ_Local1DChain.txt
+ExpectedSigmaZ_1DChain.txt
+MutualInformation_Local1DChain.txt
+MutualInformation_1DChain.txt
+VonNeumannEntropy_Local1DChain.txt
+VonNeumannEntropy_1DChain.txt
+ExpectedSigmaZ_3DChain.txt
+ExpectedSigmaZ_3DChainTime.txt
+ExpectedSigmaZ_3DChain_Bz.txt
+ExpectedSigmaZ_3DChain_BxBz.txt
+ExpectedSigmaZ_3DChain_BxBz_rho.txt
